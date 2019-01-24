@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Cat Clicky Game
 
-In the project directory, you can run:
+Can you click on all 12 Cats to win the game? Test out your memory with this highly acclaimed clicker game!
 
 ### `npm start`
 
