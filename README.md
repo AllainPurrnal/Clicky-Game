@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Cat Clicky Game
 
 Can you click on all 12 Cats to win the game? Test out your memory with this highly acclaimed clicker game!
+[Cat Clicky Game](https://cat-clicky-game.herokuapp.com/)
 
 ### `npm start`
 
