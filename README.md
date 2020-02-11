@@ -2,6 +2,7 @@
 
 # Cat Clicky Game
 Can you click on all 12 Cats to win the game? Test out your memory with this highly acclaimed clicker game!
+![FRPENiykpX](https://user-images.githubusercontent.com/25943488/74289858-04cd3300-4ce5-11ea-9790-eadb19a9df4c.gif)
 
 [Click here to start playing!](https://cat-clicky-game.herokuapp.com/)
 
